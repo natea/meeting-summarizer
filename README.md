@@ -148,3 +148,4 @@ MIT License - see LICENSE file for details
 
 ![CleanShot 2025-06-25 at 09 29 54](https://github.com/user-attachments/assets/22a1b5df-2290-4b6c-953b-378570c45384)
 
+![CleanShot 2025-06-25 at 09 29 20](https://github.com/user-attachments/assets/8ee61a98-9bf0-4345-a21e-ec2f3b311be4)

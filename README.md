@@ -2,6 +2,8 @@
 
 Transform your meeting recordings into actionable summaries and tasks with AI.
 
+![CleanShot 2025-06-25 at 09 28 41](https://github.com/user-attachments/assets/34d6b7ce-4f2e-452d-8154-f4f2eddb3b36)
+
 ## Features
 
 - 🎤 **Audio Upload**: Upload meeting recordings or provide cloud recording links
@@ -139,3 +141,10 @@ npm start
 ## License
 
 MIT License - see LICENSE file for details
+
+## Screenshots
+
+![CleanShot 2025-06-25 at 09 30 09](https://github.com/user-attachments/assets/14f2f403-d7c6-4000-8c0b-1c9b5435cfc3)
+
+![CleanShot 2025-06-25 at 09 29 54](https://github.com/user-attachments/assets/22a1b5df-2290-4b6c-953b-378570c45384)
+
